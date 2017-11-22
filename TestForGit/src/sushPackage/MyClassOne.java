@@ -2,7 +2,7 @@ package sushPackage;
 
 public class MyClassOne {
 	
-	String su="Patil";
+	String su="Sushant Patil";
 
 	public static void main(String[] args) {
 		System.out.println("New One");
